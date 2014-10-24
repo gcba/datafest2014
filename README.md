@@ -2,15 +2,11 @@ Datafest 2014
 ================================
 ___
 
-Charla de [CartoDB][http://www.cartodb.com/] & [Odyssey.js](http://cartodb.github.io/odyssey.js/) para [DataFest 2014](http://blogs.lanacion.com.ar/datafest/)
+Taller para [DataFest 2014](http://blogs.lanacion.com.ar/datafest/) de Cartografía básica para contar historias con datos utilizando [CartoDB][http://www.cartodb.com/], [Google Maps Engine](https://mapsengine.google.com/) y [Odyssey.js](http://cartodb.github.io/odyssey.js/) 
 
-###### Puntos de la charla
+###### Descripción del taller
 
-Contaremos como realizar una vizualizacion en un mapa utilizando CartoDB y veremos las posibilidades que ofrece su API. También veremos como integrar y contar una historia con OdisseyJS.
-
-- Manejo básico de CartoDB
-- Breve introducción a la API de CartoDB
-- Integración de CartoDB con Odyssey.js
+Daremos un taller de como realizar una vizualización cartográfica e integrarlo con OdisseyJS para contar una historia.
 
 ###### Requisitos
 
@@ -22,10 +18,13 @@ Contaremos como realizar una vizualizacion en un mapa utilizando CartoDB y verem
 
 ###### Speakers
 
-- David Galavotti [![Twitter](https://raw.githubusercontent.com/gcba/datafest2014/master/assets/img/logo-twitter.png)](http://twitter.com/pixelbeat)
-- Pilar Mayora [![Twitter](https://raw.githubusercontent.com/gcba/datafest2014/master/assets/img/logo-twitter.png)](http://twitter.com/pilimayora)
-- Nicolás Lound [![Twitter](https://raw.githubusercontent.com/gcba/datafest2014/master/assets/img/logo-twitter.png)](http://twitter.com/pinkcoso)
+- Davo Galavotti - desarrollador y diseñador. [![Twitter](https://raw.githubusercontent.com/gcba/datafest2014/master/assets/img/logo-twitter.png)](http://twitter.com/pixelbeat)
+- Pili Mayora - programadora full-stack [![Twitter](https://raw.githubusercontent.com/gcba/datafest2014/master/assets/img/logo-twitter.png)](http://twitter.com/pilimayora)
+- Nicolás Lound - analista programador [![Twitter](https://raw.githubusercontent.com/gcba/datafest2014/master/assets/img/logo-twitter.png)](http://twitter.com/pinkcoso)
 
+___
+ Fuentes de datos:
+ - [Portal de datos públicos](http://datospublicos.gov.ar/) (Establecimientos educativos)
 
 ___
 	

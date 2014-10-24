@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Taller de CartoDB y OdysseyJS - Datafest 2014</title>
+
+	<!-- Llamo a la hoja de estilos y a la librería de CartoDB -->  
+	<link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/themes/css/cartodb.css" />
+	<script src="http://libs.cartocdn.com/cartodb.js/v3/cartodb.js"></script>
+	
+	<!-- Estilos generales -->  
+	<style>
+		html, body, #mapa {
+			padding: 0;
+			margin: 0;
+			width: 100%;
+			height: 100%;
+		}
+	</style>
+
+</head>
+
+<body>
+
+	
+	<div id="mapa">
+		<!-- En este div voy a cargar el mapa -->  
+	</div>
+
+	<script>
+		// Cuando carge la página creo el mapa
+		window.onload = function() {
+	  		cartodb.createVis('mapa', 'http://datafest2014.cartodb.com/api/v2/viz/bc5b86a4-5ba8-11e4-a8cc-0e018d66dc29/viz.json');
+		}
+	</script>
+
+</body>
+
+</html>
