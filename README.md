@@ -26,6 +26,7 @@ ___
  - [Portal Brasileiro de Dados Abertos](http://dados.gov.br/dataset/instituicoes-de-ensino-basico) (Instituições de Ensino Básico) 
  - [Polígonos de Provincias](http://www.ign.gob.ar/archivos/sig250/publicacion-conae-2012/008b-provincias.zip)
  - [Polígonos de Estados Brasileños](http://www.codegeo.com.br/2013/04/shapefiles-do-brasil-para-download.html)
+ - [Población de Brasil por municipio](http://www.ibge.gov.br/home/estatistica/populacao/estimativa2013/estimativa_tcu.shtm)
 
 ___
 	
