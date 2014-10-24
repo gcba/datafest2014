@@ -1,6 +1,5 @@
 Datafest 2014
 ================================
-___
 
 Taller para [DataFest 2014](http://blogs.lanacion.com.ar/datafest/) de Cartografía básica para contar historias con datos utilizando [CartoDB][http://www.cartodb.com/], [Google Maps Engine](https://mapsengine.google.com/) y [Odyssey.js](http://cartodb.github.io/odyssey.js/) 
 
