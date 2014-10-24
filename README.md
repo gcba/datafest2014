@@ -1,19 +1,17 @@
 Datafest 2014
 ================================
 
-Taller para [DataFest 2014](http://blogs.lanacion.com.ar/datafest/) de Cartografía básica para contar historias con datos utilizando [CartoDB][http://www.cartodb.com/], [Google Maps Engine](https://mapsengine.google.com/) y [Odyssey.js](http://cartodb.github.io/odyssey.js/) 
+Taller para [DataFest 2014](http://blogs.lanacion.com.ar/datafest/) de Cartografía básica para contar historias con datos.
 
 ###### Descripción del taller
 
-Daremos un taller de como realizar una vizualización cartográfica e integrarlo con OdisseyJS para contar una historia.
+En este taller vamos a compartir nuestras experiencias mapeando diversos fuentes de datos. Es un taller práctico divido en 4 partes. Revisión de herramientas, limpieza de datos, criterios para hacer una visualización y finalmente opciones de publicación.
 
-###### Requisitos
+Vamos a repasar herramientas como [QGIS](http://www.qgis.org/es/site/), [CartoDB](http://cartodb.com/) y [Google Maps Engine](https://mapsengine.google.com/) entre otras herramientas existen para prototipar visualizaciones con mapas.
 
-* Manejo básico de Internet.
+Sobre las fuentes de datos, vamos a trabajar con datos de analfabetismo de Argentina y Brasil, utilizando polígonos geográficos a nivel provincial en Argentina y regional en Brasil. Veremos como afinar estos datos y crear una comparación visual interprovincial en Argentina e interregional en Brasil.
 
-###### Dificultad de la charla
-
-* Baja
+Para la parte final mostraremos la opciones de publicación de CartoDB con [Odyssey.js](http://cartodb.github.io/odyssey.js/).
 
 ###### Speakers
 
@@ -27,6 +25,8 @@ ___
  - [Instituto Brasileiro de Geografia e Estatística](http://www.censo2010.ibge.gov.br/sinopse/index.php?dados=P6&uf=00) (Pessoas de 10 anos ou mais de idade, total e alfabetizadas, por situação do domicílio, segundo as Grandes Regiões e as Unidades da Federação - 2010)
  - [Portal Brasileiro de Dados Abertos](http://dados.gov.br/dataset/instituicoes-de-ensino-basico) (Instituições de Ensino Básico) 
  - [Polígonos de Provincias](http://www.ign.gob.ar/archivos/sig250/publicacion-conae-2012/008b-provincias.zip)
+ - [Polígonos de Estados Brasileños](http://www.codegeo.com.br/2013/04/shapefiles-do-brasil-para-download.html)
+ - [Población de Brasil por municipio](http://www.ibge.gov.br/home/estatistica/populacao/estimativa2013/estimativa_tcu.shtm)
 
 ___
 	
