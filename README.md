@@ -26,6 +26,7 @@ ___
  - [Portal de datos públicos](http://datospublicos.gov.ar/) (Establecimientos educativos)
  - [Instituto Brasileiro de Geografia e Estatística](http://www.censo2010.ibge.gov.br/sinopse/index.php?dados=P6&uf=00) (Pessoas de 10 anos ou mais de idade, total e alfabetizadas, por situação do domicílio, segundo as Grandes Regiões e as Unidades da Federação - 2010)
  - [Portal Brasileiro de Dados Abertos](http://dados.gov.br/dataset/instituicoes-de-ensino-basico) (Instituições de Ensino Básico) 
+ - [Polígonos de Provincias](http://www.ign.gob.ar/archivos/sig250/publicacion-conae-2012/008b-provincias.zip)
 
 ___
 	
