@@ -1,0 +1,6 @@
+# Standard ignores
+.DS_Store
+node_modules/
+.sass-cache/
+bower_components/
+Thumbs.db
