@@ -1,8 +1,7 @@
 Datafest 2014
 ================================
-___
 
-Charla de [CartoDB][http://www.cartodb.com/] & [Odyssey.js](http://cartodb.github.io/odyssey.js/) para [DataFest 2014](http://blogs.lanacion.com.ar/datafest/)
+Charla de [CartoDB](http://www.cartodb.com/) & [Odyssey.js](http://cartodb.github.io/odyssey.js/) para [DataFest 2014](http://blogs.lanacion.com.ar/datafest/)
 
 ###### Puntos de la charla
 
