@@ -11,7 +11,7 @@ Vamos a repasar herramientas como [QGIS](http://www.qgis.org/es/site/), [CartoDB
 
 Sobre las fuentes de datos, vamos a trabajar con datos de analfabetismo de Argentina y Brasil, utilizando polígonos geográficos a nivel provincial en Argentina y regional en Brasil. Veremos como afinar estos datos y crear una comparación visual interprovincial en Argentina e interregional en Brasil.
 
-Para la parte final mostraremos la opciones de publicación de CartoDB con [Odyssey.js](http://cartodb.github.io/odyssey.js/).
+Para la parte final mostraremos lad opciones de publicación de CartoDB con [Odyssey.js](http://cartodb.github.io/odyssey.js/).
 
 ###### Speakers
 
