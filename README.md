@@ -11,7 +11,7 @@ Vamos a repasar herramientas como [QGIS](http://www.qgis.org/es/site/), [CartoDB
 
 Sobre las fuentes de datos, vamos a trabajar con datos de analfabetismo de Argentina y Brasil, utilizando polígonos geográficos a nivel provincial en Argentina y regional en Brasil. Veremos como afinar estos datos y crear una comparación visual interprovincial en Argentina e interregional en Brasil.
 
-Para la parte final mostraremos la opciones de publicación de CartoDB con [Odyssey.js](http://cartodb.github.io/odyssey.js/).
+Para la parte final mostraremos lad opciones de publicación de CartoDB con [Odyssey.js](http://cartodb.github.io/odyssey.js/).
 
 ###### Speakers
 
@@ -25,6 +25,10 @@ ___
  - [Instituto Brasileiro de Geografia e Estatística](http://www.censo2010.ibge.gov.br/sinopse/index.php?dados=P6&uf=00) (Pessoas de 10 anos ou mais de idade, total e alfabetizadas, por situação do domicílio, segundo as Grandes Regiões e as Unidades da Federação - 2010)
  - [Portal Brasileiro de Dados Abertos](http://dados.gov.br/dataset/instituicoes-de-ensino-basico) (Instituições de Ensino Básico) 
  - [Polígonos de Provincias](http://www.ign.gob.ar/archivos/sig250/publicacion-conae-2012/008b-provincias.zip)
+ - [Polígonos de Estados Brasileños](http://www.codegeo.com.br/2013/04/shapefiles-do-brasil-para-download.html)
+ - [Polígonos de Municipios Brasileños](http://www.gmapas.com/poligonos-ibge/municipios-do-brasil)
+ - [Población de Brasil por municipio](http://www.ibge.gov.br/home/estatistica/populacao/estimativa2013/estimativa_tcu.shtm)
+ - [Datasus](http://tabnet.datasus.gov.br/cgi/tabcgi.exe?ibge/censo/cnv/alfbr.def) (Taxa de analfabetismo segundo município) 
 
 ___
 	
