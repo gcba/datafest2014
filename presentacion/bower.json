@@ -1,0 +1,22 @@
+{
+  "name": "presentacion",
+  "version": "0.0.0",
+  "main": "public/css/main.css",
+  "homepage": "https://github.com/tinchoforever/sensor-journalism-kit-hhba",
+  "authors": [
+    "Davo <davidgalavotti@gmail.com>",
+    "Tincho <tinchoforever@gmail.com>"
+  ],
+  "description": "HHBA Media Party 2014 - Sensor Journalism Bootcamp",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bourbon": "~4.0.2"
+  }
+}
