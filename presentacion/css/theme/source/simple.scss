@@ -23,28 +23,14 @@ $lightGrey: #A3ABAE;
 
 //@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic|Oswald:300,400,700|Inconsolata:400,700);
 
-@include font-face('Typsansmono Light', '../../lib/font/typsansmono-light');
-@include font-face('Typsansmono Regular', '../../lib/font/typsansmono-regular');
-@include font-face('Typsansmono Text', '../../lib/font/typsansmono-text');
-@include font-face('Typsansmono Medium', '../../lib/font/typsansmono-medium');
-@include font-face('Typsansmono Bold', '../../lib/font/typsansmono-bold');
+@include font-face('Decimamono Bold', '../../lib/font/decimamono-bold-webfont');
+@include font-face('Decimamono', '../../lib/font/decimamono-webfont');
 
-
-
-// typoninesanspro-light
-// typoninesanspro-regular
-// typoninesanspro-text
-// typoninesanspro-medium
-// typoninesanspro-bold
-
-// font-family: 'Inconsolata', sans-serif;
-// font-family: 'Source Sans Pro', sans-serif;
-// font-family: 'Oswald', sans-serif;
 
 // Override theme settings (see ../template/settings.scss)
-$mainFont: 'Typsansmono Regular', 'Helvetica Neue', 'Helvetica', sans-serif;
+$mainFont: 'Decimamono', 'Helvetica Neue', 'Helvetica', sans-serif;
 $mainColor: #000;
-$headingFont: 'Typsansmono Light', 'Helvetica Neue', 'Helvetica', sans-serif;
+$headingFont: 'Decimamono Bold', 'Helvetica Neue', 'Helvetica', sans-serif;
 $headingColor: #000;
 $headingTextShadow: none;
 $headingTextTransform: none;

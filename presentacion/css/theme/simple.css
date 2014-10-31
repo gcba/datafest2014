@@ -1,33 +1,15 @@
 @font-face {
-  font-family: "Typsansmono Light";
+  font-family: "Decimamono Bold";
   font-weight: normal;
   font-style: normal;
-  src: url("../../lib/font/typsansmono-light.eot");
-  src: url("../../lib/font/typsansmono-light.eot?#iefix") format("embedded-opentype"), url("../../lib/font/typsansmono-light.woff") format("woff"), url("../../lib/font/typsansmono-light.ttf") format("truetype"), url("../../lib/font/typsansmono-light.svg#Typsansmono Light") format("svg"); }
+  src: url("../../lib/font/decimamono-bold-webfont.eot");
+  src: url("../../lib/font/decimamono-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../../lib/font/decimamono-bold-webfont.woff") format("woff"), url("../../lib/font/decimamono-bold-webfont.ttf") format("truetype"), url("../../lib/font/decimamono-bold-webfont.svg#Decimamono Bold") format("svg"); }
 @font-face {
-  font-family: "Typsansmono Regular";
+  font-family: "Decimamono";
   font-weight: normal;
   font-style: normal;
-  src: url("../../lib/font/typsansmono-regular.eot");
-  src: url("../../lib/font/typsansmono-regular.eot?#iefix") format("embedded-opentype"), url("../../lib/font/typsansmono-regular.woff") format("woff"), url("../../lib/font/typsansmono-regular.ttf") format("truetype"), url("../../lib/font/typsansmono-regular.svg#Typsansmono Regular") format("svg"); }
-@font-face {
-  font-family: "Typsansmono Text";
-  font-weight: normal;
-  font-style: normal;
-  src: url("../../lib/font/typsansmono-text.eot");
-  src: url("../../lib/font/typsansmono-text.eot?#iefix") format("embedded-opentype"), url("../../lib/font/typsansmono-text.woff") format("woff"), url("../../lib/font/typsansmono-text.ttf") format("truetype"), url("../../lib/font/typsansmono-text.svg#Typsansmono Text") format("svg"); }
-@font-face {
-  font-family: "Typsansmono Medium";
-  font-weight: normal;
-  font-style: normal;
-  src: url("../../lib/font/typsansmono-medium.eot");
-  src: url("../../lib/font/typsansmono-medium.eot?#iefix") format("embedded-opentype"), url("../../lib/font/typsansmono-medium.woff") format("woff"), url("../../lib/font/typsansmono-medium.ttf") format("truetype"), url("../../lib/font/typsansmono-medium.svg#Typsansmono Medium") format("svg"); }
-@font-face {
-  font-family: "Typsansmono Bold";
-  font-weight: normal;
-  font-style: normal;
-  src: url("../../lib/font/typsansmono-bold.eot");
-  src: url("../../lib/font/typsansmono-bold.eot?#iefix") format("embedded-opentype"), url("../../lib/font/typsansmono-bold.woff") format("woff"), url("../../lib/font/typsansmono-bold.ttf") format("truetype"), url("../../lib/font/typsansmono-bold.svg#Typsansmono Bold") format("svg"); }
+  src: url("../../lib/font/decimamono-webfont.eot");
+  src: url("../../lib/font/decimamono-webfont.eot?#iefix") format("embedded-opentype"), url("../../lib/font/decimamono-webfont.woff") format("woff"), url("../../lib/font/decimamono-webfont.ttf") format("truetype"), url("../../lib/font/decimamono-webfont.svg#Decimamono") format("svg"); }
 .reveal h1,
 .reveal h2,
 .reveal h3,
@@ -44,7 +26,7 @@
   max-width: 100%;
   font-size: 3em;
   font-weight: 700;
-  font-family: "Typsansmono Light", "Helvetica Neue", "Helvetica", sans-serif !important;
+  font-family: "Decimamono Bold", "Helvetica Neue", "Helvetica", sans-serif !important;
   letter-spacing: -1.2em;
   text-align: center;
   line-height: 1.055em !important;
@@ -55,7 +37,7 @@ h1.claim {
   max-width: 100%;
   font-size: 2.5em;
   font-weight: 400;
-  font-family: "Typsansmono Light", "Helvetica Neue", "Helvetica", sans-serif !important;
+  font-family: "Decimamono Bold", "Helvetica Neue", "Helvetica", sans-serif !important;
   letter-spacing: -1.2em;
   text-align: center; }
 
@@ -66,20 +48,20 @@ h1.claim {
 h1.quote {
   max-width: 100%;
   font-size: 2em;
-  font-family: "Typsansmono Light", "Helvetica Neue", "Helvetica", sans-serif !important;
+  font-family: "Decimamono Bold", "Helvetica Neue", "Helvetica", sans-serif !important;
   letter-spacing: -1.2em;
   text-align: center; }
 
 h3 {
   font-size: 2em;
-  font-family: "Typsansmono Light", "Helvetica Neue", "Helvetica", sans-serif !important;
+  font-family: "Decimamono Bold", "Helvetica Neue", "Helvetica", sans-serif !important;
   letter-spacing: -1.2em;
   line-height: 1.055em !important; }
 
 h4.quote {
   max-width: 100%;
   font-size: 1.4em !important;
-  font-family: "Typsansmono Light", "Helvetica Neue", "Helvetica", sans-serif !important;
+  font-family: "Decimamono Bold", "Helvetica Neue", "Helvetica", sans-serif !important;
   letter-spacing: -1em;
   line-height: 1.02em !important;
   color: #444 !important; }
@@ -135,7 +117,7 @@ img {
   color: black; }
   #posicion .numero {
     text-align: center;
-    font-family: "Typsansmono Regular", "Helvetica Neue", "Helvetica", sans-serif;
+    font-family: "Decimamono", "Helvetica Neue", "Helvetica", sans-serif;
     font-size: 4.8em;
     padding-right: 15px;
     padding-bottom: 10px; }
@@ -145,7 +127,7 @@ img {
     #posicion .separador.parte-uno {
       border-top: 5px solid #7c00ff; }
   #posicion .leyenda {
-    font-family: "Typsansmono Light", "Helvetica Neue", "Helvetica", sans-serif;
+    font-family: "Decimamono Bold", "Helvetica Neue", "Helvetica", sans-serif;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -161,7 +143,7 @@ body {
   background-color: white; }
 
 .reveal {
-  font-family: "Typsansmono Regular", "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "Decimamono", "Helvetica Neue", "Helvetica", sans-serif;
   font-size: 36px;
   font-weight: normal;
   letter-spacing: -0.02em;
@@ -183,7 +165,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: black;
-  font-family: "Typsansmono Light", "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "Decimamono Bold", "Helvetica Neue", "Helvetica", sans-serif;
   line-height: 0.9em;
   letter-spacing: 0.02em;
   text-transform: none;
