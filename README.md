@@ -28,6 +28,7 @@ ___
  - [Polígonos de Estados Brasileños](http://www.codegeo.com.br/2013/04/shapefiles-do-brasil-para-download.html)
  - [Polígonos de Municipios Brasileños](http://www.gmapas.com/poligonos-ibge/municipios-do-brasil)
  - [Población de Brasil por municipio](http://www.ibge.gov.br/home/estatistica/populacao/estimativa2013/estimativa_tcu.shtm)
+ - [Datasus](http://tabnet.datasus.gov.br/cgi/tabcgi.exe?ibge/censo/cnv/alfbr.def) (Taxa de analfabetismo segundo município) 
 
 ___
 	
