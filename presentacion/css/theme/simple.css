@@ -10,6 +10,9 @@
   font-style: normal;
   src: url("../../lib/font/decimamono-webfont.eot");
   src: url("../../lib/font/decimamono-webfont.eot?#iefix") format("embedded-opentype"), url("../../lib/font/decimamono-webfont.woff") format("woff"), url("../../lib/font/decimamono-webfont.ttf") format("truetype"), url("../../lib/font/decimamono-webfont.svg#Decimamono") format("svg"); }
+body {
+  background: url(../../img/bkg.svg) center center no-repeat !important; }
+
 .reveal h1,
 .reveal h2,
 .reveal h3,
@@ -80,10 +83,11 @@ ul {
   ul li {
     display: block;
     margin: 0px;
-    float: left; }
+    text-align: center; }
 
 ul.us li {
-  padding: 10px; }
+  padding: 10px;
+  float: left; }
 ul.us img {
   border: none !important;
   border-top-left-radius: 250px;

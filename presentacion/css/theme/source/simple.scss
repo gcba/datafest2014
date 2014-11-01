@@ -39,7 +39,9 @@ $linkColor: #00008B;
 $linkColorHover: lighten( $linkColor, 20% );
 $selectionBackgroundColor: rgba(0, 0, 0, 0.99);
 
-
+body {
+    background: url(../../img/bkg.svg) center center no-repeat !important;
+}
 
 
 .reveal h1,
@@ -123,15 +125,15 @@ ul {
     li {
         display: block;
         margin: 0px;
-        float: left;
+        text-align: center;
     }
-
 }
 
 ul.us {
 
     li {
         padding: 10px;
+        float: left;
     }
 
     img {

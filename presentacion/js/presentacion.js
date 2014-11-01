@@ -138,12 +138,12 @@ Reveal.addEventListener('slidechanged', function(event) {
 
                 tl.staggerFrom(contentOpenData, 0.5, {
                     autoAlpha: 0,
-                    // x: (Math.random() * 200) + 500,
+                    y: (Math.random() * 200) + 500,
                     // rotationZ: 45,
-                    rotationY: 180/2,
+                    // rotationY: 180/2,
                     transformOrigin: "50% center 0",
-                    ease: Power1.easeInOut
-                }, .4);
+                    ease: Power2.easeInOut
+                }, .2);
 
             }
         }
